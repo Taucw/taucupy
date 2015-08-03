@@ -1,1 +1,8 @@
 node_modules/*
+nodejs-jwt-authentication-sample/note_modules
+public/*.svg
+public/*.svg
+public/*.woff
+public/*.woff2
+public/*.eot
+public/*.ttf

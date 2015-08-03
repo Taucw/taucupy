@@ -1,0 +1,6 @@
+.calendar td {
+  margin: .5em;
+  border: 1px solid #ccc;
+  width: 5em;
+  height: 5em;
+}

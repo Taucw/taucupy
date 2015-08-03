@@ -3,6 +3,10 @@ import Router from 'react-router';
 import RouterContainer from './services/RouterContainer';
 import routes from './config/routes';
 import LoginActions from './actions/LoginActions';
+
+require("bootstrap-webpack");
+require('./App.css');
+
 var router = Router.create({routes});
 RouterContainer.set(router);
 
